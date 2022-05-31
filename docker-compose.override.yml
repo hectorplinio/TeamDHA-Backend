@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  web:
+    container_name: web
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/app
+    environment:
+      NODE_ENV: development
