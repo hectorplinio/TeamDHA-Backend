@@ -1,8 +1,8 @@
-![job and talent](https://user-images.githubusercontent.com/48081621/162180679-3f1db5bd-72bc-4300-b99e-91d6c5f0a0e6.png)
+![logo](https://images.vexels.com/media/users/3/224241/isolated/preview/4d2aacf413b02b74c2cdb75ea41f24d3-programacion-de-diple-logo.png)
 
-# jnt-copy
+# TeamDHA
 
-The main goal is to create an API that emulates the workings of Job and Talent. Where you have Workers and Companies. And it's working on our [website](http://ec2-3-85-237-21.compute-1.amazonaws.com/)
+The main goal is to create an API that emulates the workings of company. Where you have Workers and Companies. And it's working on our [website](http://34.102.207.84/api)
 
 ### Table of contents
 
@@ -79,7 +79,7 @@ In the root folder of the project, you'll find several config files. Let's go ov
 
 We use [Gihub Actions](https://github.com/features/actions) as _CI/CD_ service.
 
-**[Codeship governance project](http://ec2-3-85-237-21.compute-1.amazonaws.com/)**
+**[Codeship governance project](http://34.102.207.84/api)**
 
 Every time you make a pull request to `main` or commit to a branch that has one, the steps `.github/workflows/test.yml` will run.
 
