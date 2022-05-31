@@ -89,4 +89,4 @@ Every time a branch is merged to `main`, the steps `.github/workflows/build-and-
 
 ## Copyright and license
 
-(c) Jobandtalent.
+(c) Company.

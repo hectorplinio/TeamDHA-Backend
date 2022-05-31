@@ -1,7 +1,7 @@
 {
   "name": "jnt-copy",
   "version": "0.2.1",
-  "description": "API that emulates Job and Talent",
+  "description": "API that emulates company",
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
